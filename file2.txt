@@ -1,1 +1,2 @@
 added this file in test1 - and changed in test2 while there's another change in the file commited
+another line
