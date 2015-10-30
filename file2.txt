@@ -4,4 +4,4 @@ a third line when checking --rebase
 adding this line in in test1-b branch
 
 
-added in new branch test1-d
+added in new branch test1-d - and then added this
