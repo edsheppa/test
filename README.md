@@ -8,3 +8,6 @@ another line changed in test2
 changed this one in test1
 
 added this line when checking --rebase
+
+added when checking branch merging
+

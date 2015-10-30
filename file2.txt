@@ -1,4 +1,4 @@
-added this file in test1 - and changed in test2 while there's another change in the file commited - changed in test1 investigating --rebase
+added this file in test1 - and changed in test2 while there's another change in the file commited - changed in test1 investigating --rebase - change in main to merge with change in test1-b change
 another line
 a third line when checking --rebase
 adding this line in in test1-b branch
