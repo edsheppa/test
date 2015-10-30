@@ -1,3 +1,5 @@
 added this file in test1 - and changed in test2 while there's another change in the file commited - changed in test1 investigating --rebase
 another line
 a third line when checking --rebase
+adding this line in in test1-b branch
+
