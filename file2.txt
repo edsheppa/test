@@ -3,3 +3,6 @@ another line
 a third line when checking --rebase
 adding this line in in test1-b branch
 
+
+
+made another new branch, test1-c
